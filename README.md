@@ -1,0 +1,99 @@
+# AWS Developer Associate
+
+## Table of Contents
+
+- 1. Getting Started
+	- Regions
+	- AWS Console & Services
+- 2. IAM & AWS CLI
+	- IAM: Users, Groups, Policies
+	- IAM: Policies
+	- IAM: MFA
+	- AWS Access Keys, CLI and SDK
+	- AWS CLI
+	- AWS CloudShell
+	- IAM: Roles
+	- IAM: Security Tools
+	- IAM: Best Practices
+	- IAM: Shared Responsibility Model
+- 3. EC2 Fundamentals
+	- AWS Budget Setup
+	- EC2 Basics
+	- EC2 Instance Types
+	- Security Groups & Classic Ports
+	- SSH
+	- SSH Troubleshooting
+	- EC2 Instance Connect
+	- EC2 Instance Roles
+	- EC2 Instance Purchasing
+- 4. EC2 Instance Storage
+	- EBS
+	- EBS Snapshots
+	- AMI
+	- EC2 Instance Store
+	- EBS Volume Types
+	- EBS Multi-Attach
+	- EFS
+	- EFS vs EBS
+- 5. AWS Fundamentals: ELB + ASG
+	- High Availability and Scalability
+	- Elastic Load Balancing (ELB)
+	- Application Load Balancing (ALB)
+	- Network Load Balancer (NLB)
+	- Gateway Load Balancer (GWLB)
+	- ELB: Sticky Session
+	- ELB: Cross Zone Load Balancing
+	- ELB: SSL Certificates
+	- ELB: Connection Draining
+	- Auto Scaling Groups (ASG)
+	- ASG: Scaling Policies
+	- ASG: Instance Refresh
+- 6. AWS Fundamentals: RDS + Aurora
+	- AWS RDS
+	- RDS Read Replicas vs Multi AZ
+	- Amazon Aurora
+	- RDS & Aurora Security
+	- RDS Proxy
+	- ElasticCache
+	- Amazon MemoryDB for Redis
+- 7. Route 53
+	- What is a DNS?
+	- Route 53
+	- Route 53: Registering a Domain
+	- Route 53: Creating our First Record
+	- Route 53: EC2 Setup
+	- Route 53: CNAME vs Alias
+	- Routing Policy: Simple
+	- Routing Policy: Weighted
+	- Routing Policy: Latency
+	- Route 53: Health Checks
+	- Routing Policy: Failover
+	- Routing Policy: Geolocation
+	- Routing Policy: Geoproximity
+	- Routing Policy: Traffic Flow
+	- Routing Policy: IP Based
+	- Routing Policy: Multi Value
+	- 3rd Party Domains & Route 53
+- 8. VPC Fundamentals
+	- Introduction
+	- VPC: Subnets, IGW, NAT
+	- NACL, SG, VPC Flow Logs
+	- VPC Peering, Endpoints, VPN, DX
+	- VPC Cheat Sheet
+	- Three Tier Architecture
+- 9. AWS S3
+	- Overview
+	- Security: Bucket Policy
+	- S3 Website
+	- Versioning
+	- Replication
+	- Storage Classes
+- 10. AWS CLI, SDK, IAM Roles & Policies
+	- AWS EC2 Instance Metadata
+	- AWS CLI Profiles
+	- AWS CLI with MFA
+	- AWS SDK
+	- Exponential Backoff & Service Limit Increase
+	- AWS Credentials Provider & Chain
+	- AWS Signature v4 Signing (Sigv4)
+- 11. 
